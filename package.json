@@ -1,0 +1,27 @@
+{
+  "name": "ls",
+  "version": "0.0.3",
+  "description": "This is the simple addition function",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs19991215/npm-package-test.git"
+  },
+  "keywords": [
+    "addition",
+    "function"
+  ],
+  "author": "harsh sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs19991215/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/hs19991215/npm-package-test#readme",
+  "dependencies": {
+    "simple-addition-function": "^0.0.1"
+  }
+}
